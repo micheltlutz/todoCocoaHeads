@@ -9,7 +9,7 @@ import UIKit
 
 class ViewController: UIViewController {
     private let tableView: UITableView = {
-        let tableView = UITableView(frame: .zero, style: UITableViewStyle.plain)
+        let tableView = UITableView(frame: .zero, style: UITableView.Style.plain)
         tableView.translatesAutoresizingMaskIntoConstraints = false
         return tableView
     }()
