@@ -18,3 +18,20 @@
         <img src="http://img.shields.io/badge/swift-4.1-brightgreen.svg" alt="Swift 4.1">
     </a>
 </p>
+
+
+# Post de passo a passo
+
+[Link Post](http://micheltlutz.me/post/vapor-3-postgres-e-onemodel)
+
+### Link para Keynote:
+
+[Slideshare](https://www.slideshare.net/michelboss/cocoaheads-poa-agosto-18)
+
+Não esqueça de ter o Vapor instalado na maquina: [Vapor Get Started](https://docs.vapor.codes/3.0/install/macos/)
+
+### Thanks [Tenner](https://twitter.com/tanner0101)
+
+[Hello from Tenner on YouTube](https://youtu.be/mVzlpiwhBLM)
+
+[Meetup CocoaHeads POA](https://www.meetup.com/CocoaHeads-POA/)
