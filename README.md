@@ -17,6 +17,9 @@
     <a href="https://swift.org">
         <img src="http://img.shields.io/badge/swift-4.1-brightgreen.svg" alt="Swift 4.1">
     </a>
+    <a href="https://swift.org">
+        <img src="http://img.shields.io/badge/swift-4.2-brightgreen.svg" alt="Swift 4.2">
+    </a>
 </p>
 
 
@@ -29,6 +32,8 @@
 [Slideshare](https://www.slideshare.net/michelboss/cocoaheads-poa-agosto-18)
 
 Não esqueça de ter o Vapor instalado na maquina: [Vapor Get Started](https://docs.vapor.codes/3.0/install/macos/)
+
+## App com Swift 4.2
 
 ### Thanks [Tenner](https://twitter.com/tanner0101)
 
